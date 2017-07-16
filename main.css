@@ -1,0 +1,12 @@
+body {
+	direction: rtl;
+	background-color: #09486B;
+	color: #5fb6f9;
+}
+a {
+	text-decoration: none;
+	color: #F36621;
+}
+.title {
+	color: #3a79a7;
+}
